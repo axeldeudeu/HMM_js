@@ -1,0 +1,16 @@
+{
+  "name": "Text_generation",
+  "version": "1.0.0",
+  "description": "HMM Text Generation with Ramda",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-deps": "npm install ramda",
+    "start": "node TP_HMM_predictionTexte.js"
+  },
+  "dependencies": {
+    "ramda": "^0.30.1"
+  },
+  "private": true
+}
