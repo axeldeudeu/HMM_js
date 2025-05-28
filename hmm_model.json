@@ -1,5 +1,5 @@
 {
-  "states": [
+  "statuts": [
     "l",
     " ",
     "i",
@@ -35,7 +35,7 @@
     "â",
     "û"
   ],
-  "transitionMatrix": {
+  "matriceTransition": {
     "5": {
       "5": 0.02857142857142858,
       "l": 0.02857142857142858,
@@ -1261,7 +1261,7 @@
       "û": 0.02857142857142858
     }
   },
-  "emissionMatrix": {
+  "matriceEmission": {
     "5": {
       "5": 0.7079646017699114,
       "l": 0.008849557522123892,
@@ -2487,7 +2487,7 @@
       "û": 0.7079646017699115
     }
   },
-  "initialProbs": {
+  "probasInitiales": {
     "5": 0.00013161358252171624,
     "l": 0.05883127138720716,
     " ": 0.13214003685180312,
@@ -2523,7 +2523,7 @@
     "â": 0.00013161358252171624,
     "û": 0.00013161358252171624
   },
-  "characterCounts": {
+  "compteurCaracteres": {
     "5": 5,
     "l": 2235,
     " ": 5020,
@@ -2559,38 +2559,38 @@
     "â": 5,
     "û": 5
   },
-  "totalCharacters": 37990,
-  "trainingHistory": [
+  "totalCaracteres": 37990,
+  "historiqueEntrainement": [
     {
       "timestamp": "2025-05-28T14:39:11.584Z",
-      "textLength": 7598,
-      "newStates": 34,
-      "totalStates": 34
+      "longueurTexte": 7598,
+      "nouveauxEtats": 34,
+      "totauxEtats": 34
     },
     {
       "timestamp": "2025-05-28T14:45:04.076Z",
-      "textLength": 7598,
-      "newStates": 34,
-      "totalStates": 34
+      "longueurTexte": 7598,
+      "nouveauxEtats": 34,
+      "totauxEtats": 34
     },
     {
       "timestamp": "2025-05-28T14:45:10.747Z",
-      "textLength": 7598,
-      "newStates": 34,
-      "totalStates": 34
+      "longueurTexte": 7598,
+      "nouveauxEtats": 34,
+      "totauxEtats": 34
     },
     {
       "timestamp": "2025-05-28T17:00:53.357Z",
-      "textLength": 7598,
-      "newStates": 34,
-      "totalStates": 34
+      "longueurTexte": 7598,
+      "nouveauxEtats": 34,
+      "totauxEtats": 34
     },
     {
       "timestamp": "2025-05-28T17:26:45.932Z",
-      "textLength": 7598,
-      "newStates": 34,
-      "totalStates": 34
+      "longueurTexte": 7598,
+      "nouveauxEtats": 34,
+      "totauxEtats": 34
     }
   ],
-  "lastUpdate": "2025-05-28T17:26:45.938Z"
+  "derniereMaj": "2025-05-28T17:26:45.938Z"
 }
